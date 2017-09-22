@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.26730.16
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringCalculatorKata", "StringCalculatorKata\StringCalculatorKata.csproj", "{5DA02147-87A3-4DAF-91E7-9FC94C4A260C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringCalculatorKata.UnitTests", "StringCalculator.UnitTests\StringCalculatorKata.UnitTests.csproj", "{E8FD6D74-C05D-4C8D-8729-90114540F60B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringCalculatorKata.UnitTests", "StringCalculatorKata.UnitTests\StringCalculatorKata.UnitTests.csproj", "{E8FD6D74-C05D-4C8D-8729-90114540F60B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
